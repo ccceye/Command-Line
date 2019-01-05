@@ -56,3 +56,74 @@ How to write image files to an SD card from the command line with dd
 How to access a login console from some versions of Mac OS X
 
 And if the command line isn’t something you want to mess around with or is irrelevant to you, then be sure to check out a roundup of the best tips for iPhone and iPad from 2018 and a roundup of some of the best tips for Mac from 2018.
+
+# 33 of the Best Mac Tips from 2018
+
+http://osxdaily.com/2019/01/01/33-of-the-best-mac-tips-from-2018/
+
+How to Add AirDrop to Mac Dock for Quick Access
+
+How to Display Calendar Events as a List on Mac
+
+How to Force Quit Multiple Mac Apps at the Same Time
+
+How to Show Hidden Files on Mac by Keyboard Shortcut
+
+How to Use Lock Screen in MacOS
+
+How to Hide All Other Windows Except the Currently Active Mac App
+
+Show all Geotagged Photos on a Map on Mac
+
+How to Make Windows Full Screen on Mac
+
+How to Duplicate Files or Folders on Mac
+
+How to Get Size of Files or Folders on Mac
+
+How to Search Emoji on Mac
+
+How to Boot a Mac into Single User Mode
+
+How to Search Safari History on Mac
+
+How to Delete Specific Safari History on Mac
+
+How to Recover Deleted Safari History on a Mac
+
+
+How to Restore Accidentally Deleted System Files on Mac
+
+How to Disable Remote Loading of Content and Images on Mac Mail
+
+Where to Download Old Mac Software
+
+How to See the Size of Updates in the Mac App Store
+
+How to Disable Touch Bar on MacBook Pro
+
+How to Record Phone Calls with a Mac
+
+How to Enable Dark Mode Theme on Mac
+
+How to Schedule Dark Mode on Mac
+
+How to Enable the Light Mode Theme on Mac
+
+How to Use Dynamic Desktops on Mac
+
+How to Clean Install MacOS Mojave
+
+How to Update System Software in New MacOS Versions
+
+How to Update All Apps from Mac App Store at the Same Time
+
+How to Get a ‘Save As’ Shortcut in MacOS Again
+
+How to Disable Many Mac Animations with Reduce Motion
+
+Tips for Working on a Mac at Night or in Low Light
+
+How to Make Group FaceTime Calls from Mac
+
+Get the Space Screen Savers from Apple TV on a Mac
